@@ -6,5 +6,5 @@ This repository is home to the temporary issue tracker for Chrome's experimental
 Links
 -----------
 
-  * [Experimental Builds](https://drive.google.com/folderview?id=0BzudLt22BqGRbW9WTHMtOWMzNjQ&usp=sharing#list)
-  * [Chromium Experimental Branch](https://chromium.googlesource.com/experimental/chromium/src/+/refs/wip/bajones/webvr)
+  * [Experimental Builds](https://webvr.info/get-chrome)
+  * [Chromium Experimental Branch](https://chromium.googlesource.com/experimental/chromium/src/+/refs/wip/bajones/webvr_1)
